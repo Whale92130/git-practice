@@ -1,3 +1,4 @@
 Name: Alexander Sementchenko
 Favorite Subject: Computer Science
 Learning Git in the command line is fun!
+Learning Git forking on accident then undoing it and doing branches is fun!
