@@ -1,2 +1,3 @@
 Name: Alexander Sementchenko
 Favorite Subject: Computer Science
+Learning Git in the command line is fun!
